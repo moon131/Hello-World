@@ -1,2 +1,1 @@
-# Hello-World
-study
+一个学习者
